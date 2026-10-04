@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Part1_ProceduralToOOP/Part1_ProceduralToOOP.csproj" />
+  <Project Path="Part2_HotelReservationSystem/Part2_HotelReservationSystem.csproj" />
+  <Project Path="Part3_BuilderPattern/Part3_BuilderPattern.csproj" />
+</Solution>
